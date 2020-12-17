@@ -1,4 +1,4 @@
-# FacemaskDetectionGroup3
+# FacemaskDetection
 FacemaskDetection
 Background Information
 	In the beginning of 2020, COVID-19 took the nation by storm, forcing many businesses to close their doors or to enforce a face mask policy on their premises. With having these two as options companies were forced to have their customers and staff wear masks to decrease the risk of the disease spreading further. With the end of this quarantine still to be undetermined companies must find a way to monitor the individuals in their store in order to avoid losing customers or shutting down.
